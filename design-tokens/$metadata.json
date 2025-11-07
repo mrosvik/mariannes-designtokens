@@ -15,9 +15,8 @@
     "themes/theme",
     "semantic/color",
     "semantic/modes/main-color/accent",
-    "semantic/modes/support-color/ekstra1",
-    "semantic/modes/support-color/ekstra2",
-    "semantic/modes/support-color/ekstra3",
+    "semantic/modes/support-color/brand1",
+    "semantic/modes/support-color/brand2",
     "semantic/style"
   ]
 }
