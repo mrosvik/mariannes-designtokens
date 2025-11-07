@@ -101,14 +101,6 @@
     "group": "Semantic"
   },
   {
-    "id": "593774a74235b661fff40693ca7bda160aadfb74",
-    "name": "primary",
-    "selectedTokenSets": {
-      "semantic/modes/main-color/primary": "enabled"
-    },
-    "group": "Main color"
-  },
-  {
     "id": "77029e975ec86efe4b92eb0be546d61959085bd1",
     "name": "accent",
     "selectedTokenSets": {
@@ -117,18 +109,26 @@
     "group": "Main color"
   },
   {
-    "id": "0d546651bdff926cb8bb0befe83947ca4bf348b0",
-    "name": "extra1",
+    "id": "92d161e1941ed6bf7225ed60f6573b2584a9a8fc",
+    "name": "lilla1",
     "selectedTokenSets": {
-      "semantic/modes/support-color/extra1": "enabled"
+      "semantic/modes/support-color/lilla1": "enabled"
     },
     "group": "Support color"
   },
   {
-    "id": "276da52ce879d63f404de7dbc88b166b5f602248",
-    "name": "extra2",
+    "id": "0c3f147f01f3dc1ae21b8e796f72f3a605a616d8",
+    "name": "lilla2",
     "selectedTokenSets": {
-      "semantic/modes/support-color/extra2": "enabled"
+      "semantic/modes/support-color/lilla2": "enabled"
+    },
+    "group": "Support color"
+  },
+  {
+    "id": "94adba2be3bff10597dbd202dfee57f4ba35c128",
+    "name": "lilla3",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/lilla3": "enabled"
     },
     "group": "Support color"
   }
