@@ -16,10 +16,10 @@
       },
       "overrides": {
         "severity": {
-          "info": "#b933d9",
-          "success": "#540687",
-          "warning": "#a91bea",
-          "danger": "#951bc0"
+          "info": "#0a5bc0",
+          "success": "#0c861d",
+          "warning": "#db911a",
+          "danger": "#c62323"
         }
       },
       "borderRadius": 4
