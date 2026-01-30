@@ -1,0 +1,1 @@
+Based on: https://theme.designsystemet.no/no/themebuilder?main=accent%3A%230D7A5F&neutral=%2324272B&support=brand1%3A%23431879+brand2%3A%233f6ca0+brand3%3A%23b14aaa&appearance=light&border-radius=9999&tab=colorsystem
